@@ -1,0 +1,5 @@
+- Python 🐍  
+- Streamlit  
+- Scikit-learn  
+- Pandas & NumPy  
+- Matplotlib & Seaborn  
