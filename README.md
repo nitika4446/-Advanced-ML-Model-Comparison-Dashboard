@@ -5,7 +5,7 @@ An interactive **Machine Learning Dashboard** built with Streamlit that allows u
 ---
 
 ## 🚀 Live Demo
-🔗 https://lnkd.in/gnFAGy9n  
+🔗 https://dgow6sncr6kmjpzmciutd9.streamlit.app/ 
 
 ---
 
